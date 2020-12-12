@@ -1,0 +1,1 @@
+export { default } from "D:\\home\\vuepress-boke\\talent-baoda\\node_modules\\@vuepress-reco\\vuepress-plugin-back-to-top\\bin\\enhanceAppFile.js"

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="849069b0-c881-4c6e-9039-3fc3bc12e64b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/dist/assets/css/0.styles.da740a5b.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/1.8738d786.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/10.757bd58d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/11.e4b1764f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/12.1760a19f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/13.c2023324.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/14.413e1b14.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/15.9ffc88c6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/16.99561330.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/17.4e789748.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/18.db26af71.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/3.d43defce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/4.8c6deca6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/5.8f6489a5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/6.e683c9f4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/7.6d23a751.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/8.925cf093.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/9.8c18fca8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/app.f7b9a853.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/categories/工具/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/categories/工具/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/categories/烹饪/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/categories/爱好/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tag/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/tag/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tag/vue/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/tag/vue/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tag/烤/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tag/鸭子/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/0.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/10.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/11.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/11.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/12.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/12.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/13.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/13.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/2.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/3.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/4.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/5.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/6.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/7.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/8.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/8.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/9.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/9.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/global-components-1.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/global-components-1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/dynamic/vuepress_blog/frontmatterClassified.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/dynamic/vuepress_blog/frontmatterClassified.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/dynamic/vuepress_blog/paginations.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/dynamic/vuepress_blog/paginations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/app-enhancers.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/app-enhancers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/global-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/global-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/layout-components.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/layout-components.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/page-components.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/page-components.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/root-mixins.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/root-mixins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/siteData.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/siteData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/palette.styl" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/palette.styl" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l6O3V5ZJewcuTgWruy8mPifnnT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="D:\资料\新建文件夹\serverless\empty-vuepress\node_modules\prettier" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\资料\新建文件夹\serverless\小天才宝达\talent-baoda\docs\frontEnd\vue" />
+      <recent name="D:\资料\新建文件夹\serverless\小天才宝达\talent-baoda\docs\.vuepress" />
+      <recent name="D:\资料\新建文件夹\serverless\小天才宝达\talent-baoda\docs\timeLine" />
+      <recent name="D:\资料\新建文件夹\serverless\empty-vuepress\docs\template\baodian" />
+      <recent name="D:\资料\新建文件夹\serverless\empty-vuepress\docs\template\guide\notes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\资料\新建文件夹\serverless\小天才宝达\talent-baoda\docs\frontEnd\vue\vue-router" />
+      <recent name="D:\资料\新建文件夹\serverless\小天才宝达\talent-baoda\docs\frontEnd\vue\vue-cli" />
+      <recent name="D:\资料\新建文件夹\serverless\empty-vuepress\docs" />
+      <recent name="D:\资料\新建文件夹\serverless\empty-vuepress\docs\template\baodian" />
+      <recent name="D:\资料\新建文件夹\serverless\empty-vuepress\docs\.vuepress\components\nav" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="849069b0-c881-4c6e-9039-3fc3bc12e64b" name="Default Changelist" comment="" />
+      <created>1606913874442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606913874442</updated>
+      <workItem from="1606913876919" duration="20353000" />
+      <workItem from="1607184175607" duration="1312000" />
+      <workItem from="1607250003341" duration="10756000" />
+      <workItem from="1607327784392" duration="23558000" />
+      <workItem from="1607426392621" duration="670000" />
+      <workItem from="1607427399401" duration="22531000" />
+      <workItem from="1607580501299" duration="9998000" />
+      <workItem from="1607692587125" duration="1769000" />
+    </task>
+    <task id="LOCAL-00001" summary="初版">
+      <created>1607493246351</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607493246351</updated>
+    </task>
+    <task id="LOCAL-00002" summary="初版">
+      <created>1607606369487</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607606369487</updated>
+    </task>
+    <task id="LOCAL-00003" summary="初版">
+      <created>1607694782675</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607694782676</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初版" />
+    <option name="LAST_COMMIT_MESSAGE" value="初版" />
+  </component>
+</project>

@@ -1,0 +1,19 @@
+/* 全局样式修改 */
+button{
+    outline: 0!important;
+}
+
+/* 主页样式配置： */
+/* 1、背景图和其中的文字的样式 */
+.home-blog .hero .description{
+    color: white;
+}
+.home-blog .hero .hero-img{
+    max-width: none!important;
+}
+/* 2、右侧作者信息的头像 */
+.personal-img{
+    width: 8rem;
+    height: 8rem;
+}
+
